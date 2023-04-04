@@ -4,7 +4,7 @@
 using namespace std;//incluindo biblioteca padrão
 
 int main() { //abrindo  a estrutura do codigo principal
-    int ra;
+    int ra; //definindo aa variavel do RA
     double ac1, ac2, ag, af; //definindo as variaveis
     char cont = 's'; //definindo variavel para repetição
     string nome; //Definindo a variavel string
